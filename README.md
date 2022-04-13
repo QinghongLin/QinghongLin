@@ -1,4 +1,4 @@
-**👋 Hi, I’m Kevin Qinghong Lin.**
+**👋 Hi, I’m Qinghong Lin.**
 
 👨‍🎓 I’m currently a final year master student at Shenzhen University.
 
