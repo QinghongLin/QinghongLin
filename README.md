@@ -1,6 +1,6 @@
 👋 Hi, I'm _Kevin Qinghong Lin_.
 
-I’m a third-year Ph.D. student at the [Show Lab, National University of Singapore](https://github.com/showlab).
+I’m a third-year Ph.D. student at [Show Lab](https://github.com/showlab), National University of Singapore.
 
 I work in **Vision+Language, Video Understanding, AI-Human Interaction**.
 
