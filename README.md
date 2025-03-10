@@ -1,8 +1,8 @@
-_Kevin Qinghong Lin_
+## Kevin Qinghong Lin
 
-I am a third-year Ph.D. student at [Show Lab](https://github.com/showlab), National University of Singapore.
+I'm a Ph.D. student at [Show Lab](https://github.com/showlab), National University of Singapore.
 
-I work in **Vision+Language, Video Understanding, AI Agents**.
+I work in **Vision+Language, Video Understanding, and AI Agents**.
 
 🌐 Homepage: [qhlin.me](https://qhlin.me/)
 
