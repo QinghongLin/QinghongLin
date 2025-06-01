@@ -2,7 +2,7 @@
 
 I'm a Ph.D. student at [Show Lab](https://github.com/showlab), National University of Singapore.
 
-I work in **Vision+Language, Video Understanding, and AI Agents**.
+I work in **Vision+Language, Video Understanding, and Agents**.
 
 🌐 Homepage: [qhlin.me](https://qhlin.me/)
 
