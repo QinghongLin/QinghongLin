@@ -1,8 +1,8 @@
 ## Kevin Qinghong Lin
 
-I'm a Postdoctoral Researcher in [Torr Vision Group](https://torrvision.com/index.html), University of Oxford.
+I am a Postdoctoral Researcher in [Torr Vision Group](https://torrvision.com/index.html), University of Oxford.
 
-I am a Ph.D. student at [Show Lab](https://github.com/showlab), National University of Singapore.
+I completed my Ph.D. at [Show Lab](https://github.com/showlab), National University of Singapore.
 
 I work in **Vision+Language, Video Understanding, and Agents**.
 
