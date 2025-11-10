@@ -4,7 +4,7 @@ I am a Postdoctoral Researcher in [Torr Vision Group](https://torrvision.com/ind
 
 I completed my Ph.D. at [Show Lab](https://github.com/showlab), National University of Singapore.
 
-I work in **Vision+Language, Video Understanding, and Agents**.
+I work in **Vision+Language, Video Understanding, and Intelligent Agents**.
 
 🌐 Homepage: [qhlin.me](https://qhlin.me/)
 
