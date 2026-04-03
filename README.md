@@ -4,7 +4,7 @@ I am a Postdoctoral Researcher in [TVG @ Oxford](https://torrvision.com/index.ht
 
 I completed my Ph.D. at [Show Lab @ NUS](https://github.com/showlab).
 
-I work in **Multimodality, Video and Agent**.
+I work in **Multimodal, Video and Agent**.
 
 🌐 Homepage: [qhlin.me](https://qhlin.me/)
 
