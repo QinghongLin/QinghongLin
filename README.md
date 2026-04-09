@@ -1,4 +1,4 @@
-## Kevin Qinghong Lin
+## Kevin Lin
 
 I am a Postdoctoral Researcher in [TVG @ Oxford](https://torrvision.com/index.html).
 
