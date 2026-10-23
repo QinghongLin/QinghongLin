@@ -1,13 +1,13 @@
 ## Kevin Lin
 
-I am a Postdoctoral Researcher in [TVG @ Oxford](https://torrvision.com/index.html).
+i am a postdoctoral researcher in [tvg @ oxford](https://torrvision.com/index.html)
 
-I completed my Ph.D. at [Show Lab @ NUS](https://github.com/showlab).
+i completed my phd at [show lab @ nus](https://github.com/showlab)
 
-I work in **agent x multimodal**.
+i work in **agent x multimodal**
 
-🌐 Homepage: [qhlin.me](https://qhlin.me/)
+🌐 homepage: [qhlin.me](https://qhlin.me/)
 
-📧 Email: [kevin.qh.lin@gmail.com](mailto:kevin.qh.lin@gmail.com)
+📧 email: [kevin.qh.lin@gmail.com](mailto:kevin.qh.lin@gmail.com)
 
 <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=qinghonglin&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
